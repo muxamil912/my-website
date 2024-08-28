@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Quicksand&display=swap');
+body{
+font-family: "Quicksand", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+}
+.abcabc{
+  font-size: 50px;
+}
+.bb{
+  font-family: "New Amsterdam", sans-serif
+}
+
+.nav1 p{
+  font-size: 20px;
+}
+.nav1 p a{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+.nav1 p a:hover{
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.6s;
+}
+
+.p1{
+    font-weight: bold;
+}
+.overlay{
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+}
+.bg{
+  background-image: url('img1.jpeg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+.oo a{
+  text-decoration: none;
+  color: white;
+
+}
+.oo a:hover{
+  font-weight: bold;
+  transition: 0.3s;
+  color: red;
+}
